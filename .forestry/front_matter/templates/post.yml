@@ -42,6 +42,11 @@ fields:
   default: post
   config:
     required: true
+- name: phan_lo_i_
+  type: tag_list
+  default: []
+  label: 'Phân loại '
+  description: Phân loại bài viết
 pages:
 - src/pages/posts/spead-operator-and-rest-operator.md
 - src/pages/posts/Js/khác-biệt-giữ-protype-và-proto.md
