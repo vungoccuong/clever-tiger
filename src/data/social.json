@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://www.facebook.com/gin.shentury"
+    },
+    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
