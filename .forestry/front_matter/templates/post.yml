@@ -43,6 +43,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/spead-operator-and-rest-operator.md
 - src/pages/posts/Js/khác-biệt-giữ-protype-và-proto.md
 - src/pages/posts/basic-rules-for-walking-in-the-mountains.md
 - src/pages/posts/working-from-home.md
